@@ -24,3 +24,5 @@ yarn-error.log*
 /.vs/react-learning/v17/.suo
 /.vs/slnx.sqlite
 /.vs/VSWorkspaceState.json
+/.vs/react-learning/config/applicationhost.config
+/.vs/slnx.sqlite-journal
